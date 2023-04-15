@@ -1,0 +1,91 @@
+﻿  ProFCFS.cpp
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(8,11): error C2143: syntax error: missing ';' before '*'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(8,15): error C2238: unexpected token(s) preceding ';'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,12): error C2061: syntax error: identifier 'Scheduler'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,28): error C2065: 'pS': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,33): error C2065: 'p': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,35): error C2143: syntax error: missing ';' before '}'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.h(6,13): error C3646: 'Plist': unknown override specifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.h(6,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.h(10,10): error C2061: syntax error: identifier 'scheduler'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(4,10): error C7550: 'ProFCFS::{ctor}': the qualified name in this context names a constructor, not a type
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(4,18): error C2065: 'scheduler': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(4,29): error C2065: 'p': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(4,32): error C2059: syntax error: ':'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(4,43): error C2259: 'processor': cannot instantiate abstract class
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(6,7): message : see declaration of 'processor'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(4,43): message : due to following members:
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(4,43): message : 'bool processor::ScheduleAlgo(void)': is abstract
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(15,15): message : see declaration of 'processor::ScheduleAlgo'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(4,43): message : 'void processor::inctimer(void)': is abstract
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(17,15): message : see declaration of 'processor::inctimer'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(4,43): message : 'void processor::dectimer(void)': is abstract
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(18,15): message : see declaration of 'processor::dectimer'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(6,2): error C2065: 'timer': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(6,11): error C2059: syntax error: ';'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(7,1): error C2059: syntax error: '}'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(7,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(10,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProFCFS.cpp(10,1): error C2447: '{': missing function header (old-style formal list?)
+  ProRoundRobin.cpp
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(8,11): error C2143: syntax error: missing ';' before '*'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(8,15): error C2238: unexpected token(s) preceding ';'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,12): error C2061: syntax error: identifier 'Scheduler'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,28): error C2065: 'pS': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,33): error C2065: 'p': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,35): error C2143: syntax error: missing ';' before '}'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.h(6,8): error C3646: 'Plist': unknown override specifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.h(6,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.h(11,16): error C2061: syntax error: identifier 'scheduler'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(5,16): error C7550: 'ProRoundRobin::{ctor}': the qualified name in this context names a constructor, not a type
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(5,30): error C2065: 'scheduler': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(5,41): error C2065: 'p': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(5,44): error C2059: syntax error: ':'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(5,55): error C2259: 'processor': cannot instantiate abstract class
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(6,7): message : see declaration of 'processor'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(5,55): message : due to following members:
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(5,55): message : 'bool processor::ScheduleAlgo(void)': is abstract
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(15,15): message : see declaration of 'processor::ScheduleAlgo'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(5,55): message : 'void processor::inctimer(void)': is abstract
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(17,15): message : see declaration of 'processor::inctimer'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(5,55): message : 'void processor::dectimer(void)': is abstract
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(18,15): message : see declaration of 'processor::dectimer'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(7,2): error C2065: 'timer': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(7,11): error C2059: syntax error: ';'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(8,1): error C2059: syntax error: '}'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(8,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(12,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProRoundRobin.cpp(12,1): error C2447: '{': missing function header (old-style formal list?)
+  ProSJB.cpp
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(8,11): error C2143: syntax error: missing ';' before '*'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(8,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(8,15): error C2238: unexpected token(s) preceding ';'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,12): error C2061: syntax error: identifier 'Scheduler'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,28): error C2065: 'pS': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,33): error C2065: 'p': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(13,35): error C2143: syntax error: missing ';' before '}'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.h(6,10): error C3646: 'Plist': unknown override specifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.h(6,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.h(10,9): error C2061: syntax error: identifier 'scheduler'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(6,9): error C7550: 'ProSJB::{ctor}': the qualified name in this context names a constructor, not a type
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(6,16): error C2065: 'scheduler': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(6,27): error C2065: 'p': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(6,30): error C2059: syntax error: ':'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(6,41): error C2259: 'processor': cannot instantiate abstract class
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(6,7): message : see declaration of 'processor'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(6,41): message : due to following members:
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(6,41): message : 'bool processor::ScheduleAlgo(void)': is abstract
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(15,15): message : see declaration of 'processor::ScheduleAlgo'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(6,41): message : 'void processor::inctimer(void)': is abstract
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(17,15): message : see declaration of 'processor::inctimer'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(6,41): message : 'void processor::dectimer(void)': is abstract
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\processor.h(18,15): message : see declaration of 'processor::dectimer'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(8,2): error C2065: 'timer': undeclared identifier
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(8,11): error C2059: syntax error: ';'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(11,1): error C2059: syntax error: '}'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(11,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(15,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\LAPTOP\source\repos\the quantum scheuler V0.0\the quantum scheuler V0.0\ProSJB.cpp(15,1): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...
