@@ -19,12 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LinkedList.h" />
+    <ClInclude Include="Process.h" />
     <ClInclude Include="processor.h" />
     <ClInclude Include="ProFCFS.h" />
     <ClInclude Include="ProRoundRobin.h" />
     <ClInclude Include="ProSJB.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="LinkedList.cpp" />
+    <ClCompile Include="Process.cpp" />
     <ClCompile Include="ProFCFS.cpp" />
     <ClCompile Include="ProRoundRobin.cpp" />
     <ClCompile Include="ProSJB.cpp" />
