@@ -1,4 +1,5 @@
 #include "processor.h"
+#include "LinkedList.h"
 #pragma once
 class ProFCFS: public processor
 {
